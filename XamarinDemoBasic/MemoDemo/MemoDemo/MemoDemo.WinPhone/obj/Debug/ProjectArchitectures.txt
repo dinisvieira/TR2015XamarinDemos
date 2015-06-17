@@ -1,0 +1,2 @@
+C:\Users\Dinis\Source\Repos\TR2015XamarinDemos\XamarinDemoBasic\MemoDemo\MemoDemo\MemoDemo.WinPhone\MemoDemo.WinPhone.csproj;neutral
+C:\Users\Dinis\Source\Repos\TR2015XamarinDemos\XamarinDemoBasic\MemoDemo\MemoDemo\MemoDemo\MemoDemo.csproj;neutral

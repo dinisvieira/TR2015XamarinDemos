@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="MemoDemo.WinPhone.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MemoDemo.WinPhone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="MICROSOFT BAND - XAMARIN" VerticalAlignment="Top" FontSize="16"/>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Install" HorizontalAlignment="Left" VerticalAlignment="Top" Click="InstallButton_Click" FontFamily="Global User Interface" FontSize="16"/>
+                <Button Content="Remove" HorizontalAlignment="Left" VerticalAlignment="Top" Click="RemoveButton_Click" FontFamily="Global User Interface" FontSize="16"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Start Pedometer" HorizontalAlignment="Left" VerticalAlignment="Top" Click="StartPedButton_Click" FontFamily="Global User Interface" FontSize="16"/>
+                <Button Content="Stop Pedometer" HorizontalAlignment="Left" VerticalAlignment="Top" Click="StopPedButton_Click" FontFamily="Global User Interface" FontSize="16"/>
+            </StackPanel>
+            <TextBlock x:Name="StepsTextBlock">Steps: -</TextBlock>
+        </StackPanel>
+        <ScrollViewer Margin="10,165,10,10" VerticalScrollBarVisibility="Auto">
+            <TextBlock x:Name="StatusMessage" TextWrapping="Wrap" Text="Pair a Microsoft Band with your device and click Run." FontSize="16"/>
+        </ScrollViewer>
+    </Grid>
+</Page>

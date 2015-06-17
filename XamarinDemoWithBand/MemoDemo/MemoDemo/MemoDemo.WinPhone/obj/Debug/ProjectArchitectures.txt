@@ -1,0 +1,2 @@
+C:\SkyDrive\Projects\TechRefresh2015\MemeDemo\MemoDemo\MemoDemo\MemoDemo.WinPhone\MemoDemo.WinPhone.csproj;neutral
+C:\SkyDrive\Projects\TechRefresh2015\MemeDemo\MemoDemo\MemoDemo\MemoDemo\MemoDemo.csproj;neutral

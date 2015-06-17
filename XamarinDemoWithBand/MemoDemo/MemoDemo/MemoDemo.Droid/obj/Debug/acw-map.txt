@@ -1,0 +1,4 @@
+MemoDemo.Droid.MainActivity, MemoDemo.Droid;md58fdacf06268a05a09a418206ef8dd507.MainActivity
+MemoDemo.Droid.MainActivity, MemoDemo.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58fdacf06268a05a09a418206ef8dd507.MainActivity
+MemoDemo.Droid.MainActivity;md58fdacf06268a05a09a418206ef8dd507.MainActivity
+memodemo.droid.MainActivity;md58fdacf06268a05a09a418206ef8dd507.MainActivity

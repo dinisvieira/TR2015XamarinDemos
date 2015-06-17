@@ -1,0 +1,7 @@
+C:\SkyDrive\Projects\TechRefresh2015\MemeDemo\MemoDemo\MemoDemo\MemoDemo\bin\Debug\MemoDemo.dll
+C:\SkyDrive\Projects\TechRefresh2015\MemeDemo\MemoDemo\MemoDemo\MemoDemo\bin\Debug\MemoDemo.pdb
+C:\SkyDrive\Projects\TechRefresh2015\MemeDemo\MemoDemo\MemoDemo\MemoDemo\bin\Debug\Newtonsoft.Json.dll
+C:\SkyDrive\Projects\TechRefresh2015\MemeDemo\MemoDemo\MemoDemo\MemoDemo\bin\Debug\Newtonsoft.Json.xml
+C:\SkyDrive\Projects\TechRefresh2015\MemeDemo\MemoDemo\MemoDemo\MemoDemo\obj\Debug\MemoDemo.csprojResolveAssemblyReference.cache
+C:\SkyDrive\Projects\TechRefresh2015\MemeDemo\MemoDemo\MemoDemo\MemoDemo\obj\Debug\MemoDemo.dll
+C:\SkyDrive\Projects\TechRefresh2015\MemeDemo\MemoDemo\MemoDemo\MemoDemo\obj\Debug\MemoDemo.pdb
